@@ -2,7 +2,7 @@
 date_added: 2022-04-03
 model: NAS-AB02B2
 vendor: Neo 
-title: Siren with Temperature & Humidity Sensor
+title: Siren
 category: sensor
 supports: alarm, battery
 zigbeemodel: ['TS0601','_TZE200_t1blo2bj', '_TZE204_t1blo2bj']
